@@ -6,7 +6,7 @@
 
 
 
-languages = ["Java", "Python", "JavaScript", "Python"]
+languages = ("Java", "Python", "JavaScript", "Python")
 
 index = languages.index("Python")
 

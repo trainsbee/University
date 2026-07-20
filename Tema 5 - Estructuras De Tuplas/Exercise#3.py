@@ -10,13 +10,13 @@ numbers[0] = 10
 
 print(numbers)
 
-Es inmutable porque, una vez que se crea, sus valores no pueden ser modificados.
-Esto es para evitar cambios accidentales. 
+#Es inmutable porque, una vez que se crea, sus valores no pueden ser modificados.
+#Esto es para evitar cambios accidentales. 
 
-Anteriormente en un bot que construí para capturar informacion de
-un CRM autenticado para automatizar un proceso el bot recibia unos parametros que no deben ser modificados
-por ningun motivo file_id,phone estos dos valores si se modiifcaba un numero podria ocasionar no enviar
-informacion o enviar la informacion de otro clientes lo cual seria falta en el proceso
+# Anteriormente en un bot que construí para capturar informacion de
+# un CRM autenticado para automatizar un proceso el bot recibia unos parametros que no deben ser modificados
+# por ningun motivo file_id,phone estos dos valores si se modiifcaba un numero podria ocasionar no enviar
+# informacion o enviar la informacion de otro clientes lo cual seria falta en el proceso
 
 #Ejemplo de mi bot
 # umbrella= {

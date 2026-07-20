@@ -10,7 +10,7 @@ difference = setOne.difference(setTwo)
 
 print(difference)
 
-Los valores 3 y 4 estan en ambos conjuntos por, lo que se eliminan de la diferencia, solo quedan los que
-no se repiten.
+# Los valores 3 y 4 estan en ambos conjuntos por, lo que se eliminan de la diferencia, solo quedan los que
+# no se repiten.
 
 # py "Tema 6 - Manejo De Conjuntos (Sets)\Exercise#9.py"

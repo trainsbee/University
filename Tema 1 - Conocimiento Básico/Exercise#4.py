@@ -12,4 +12,4 @@ print(type(age))
 print(type(price))
 print(type(status))
 
-#py "Conocimiento Básico\Exercise#4.py"
+# py "Tema 1 - Conocimiento Básico\Exercise#4.py"

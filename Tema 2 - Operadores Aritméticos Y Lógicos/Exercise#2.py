@@ -6,4 +6,4 @@ residue = 37 % 5
 
 print("El residue es:", residue)
 
-#py "Operadores Aritméticos Y Lógicos\Exercise#2.py"
+# py "Tema 2 - Operadores Aritméticos Y Lógicos\Exercise#2.py"

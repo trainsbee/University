@@ -6,4 +6,4 @@
 # Una sola linea
 print((5 * 3 + 2) > 10 and (5 * 3 + 2) < 20)
 
-#py "Operadores Aritméticos Y Lógicos\Exercise#10.py"
+# py "Tema 2 - Operadores Aritméticos Y Lógicos\Exercise#10.py"

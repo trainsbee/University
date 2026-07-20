@@ -8,4 +8,4 @@ message = str(number) + " es mi numero favorito."
 
 print(message)
 
-#py "Operadores Aritméticos Y Lógicos\Exercise#3.py"
+# py "Tema 2 - Operadores Aritméticos Y Lógicos\Exercise#3.py"

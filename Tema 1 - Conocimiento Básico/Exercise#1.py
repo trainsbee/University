@@ -11,4 +11,4 @@ country = "Honduras"
 
 print("Mi nombre es", name, "tengo", age, "años y vivo en", city + "," , department + ",", country + ".")
 
-#py "Conocimiento Básico\Exercise#1.py"
+# py "Tema 1 - Conocimiento Básico\Exercise#1.py"

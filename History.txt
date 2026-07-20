@@ -1,0 +1,125 @@
+PS C:\xampp\htdocs\Vectores> history
+
+  Id CommandLine
+  -- -----------
+   1 try { . "c:\Program Files\cursor\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegration.ps1" } catch {}
+   2 Exercice#1.py
+   3 Exercice#1.py
+   4 Exercise#1.py
+   5 python Exercise#1.py
+   6 python3 Exercise#1.py
+   7 py exercise#1.py
+   8 py exercise#1.py
+   9 py exercise#1.py
+  10 py exercise#1.py
+  11 py exercise#1.py
+  12 py exercise.py
+  13 py exercise#1.py
+  14 clear
+  15 py Exercise.py
+  16 py Exercise#4.py
+  17 py Exercise#4.py
+  18 py Exercise#8.py
+  19 Conocimiento Básico py Exercise#4.py
+  20 py Conocimiento Básico Exercise#4.py
+  21 py Conocimiento Básico/ Exercise#4.py
+  22 py "Conocimiento Básico\Exercise#4.py"
+  23 py "Conocimiento Básico/ Exercise#4.py"
+  24 clear
+  25 py "Conocimiento Básico\Exercise#4.py"
+  23 py "Conocimiento Básico/ Exercise#4.py"
+  24 clear
+  25 py "Conocimiento Básico\Exercise#4.py"
+  26 py "Conocimiento Básico\Exercise#8.py"
+  27 py "Conocimiento Básico\Exercise#1.py"
+  28 clear
+  29 py "Operadores Aritméticos Y Lógicos\Exercise#2.py"
+  30 py "Operadores Aritméticos Y Lógicos\Exercise#3.py"
+  31 py "Operadores Aritméticos Y Lógicos\Exercise#3.py"
+  32 py "Operadores Aritméticos Y Lógicos\Exercise#3.py"
+  33 py "Operadores Aritméticos Y Lógicos\Exercise#3.py"
+  34 clear
+
+
+PS C:\xampp\htdocs\Vectores>
+
+
+
+
+
+
+
+  23 py "Conocimiento Básico/ Exercise#4.py"
+  24 clear
+  25 py "Conocimiento Básico\Exercise#4.py"
+  26 py "Conocimiento Básico\Exercise#8.py"
+  27 py "Conocimiento Básico\Exercise#1.py"
+  28 clear
+  29 py "Operadores Aritméticos Y Lógicos\Exercise#2.py"
+  30 py "Operadores Aritméticos Y Lógicos\Exercise#3.py"
+  31 py "Operadores Aritméticos Y Lógicos\Exercise#3.py"
+  32 py "Operadores Aritméticos Y Lógicos\Exercise#3.py"
+  33 py "Operadores Aritméticos Y Lógicos\Exercise#3.py"
+  34 clear
+
+
+PS C:\xampp\htdocs\Vectores>
+
+
+
+
+  23 py "Conocimiento Básico/ Exercise#4.py"
+  24 clear
+  25 py "Conocimiento Básico\Exercise#4.py"
+  26 py "Conocimiento Básico\Exercise#8.py"
+  27 py "Conocimiento Básico\Exercise#1.py"
+  28 clear
+  29 py "Operadores Aritméticos Y Lógicos\Exercise#2.py"
+  30 py "Operadores Aritméticos Y Lógicos\Exercise#3.py"
+  31 py "Operadores Aritméticos Y Lógicos\Exercise#3.py"
+  32 py "Operadores Aritméticos Y Lógicos\Exercise#3.py"
+  33 py "Operadores Aritméticos Y Lógicos\Exercise#3.py"
+  34 clear
+
+
+  23 py "Conocimiento Básico/ Exercise#4.py"
+  24 clear
+  25 py "Conocimiento Básico\Exercise#4.py"
+  26 py "Conocimiento Básico\Exercise#8.py"
+  27 py "Conocimiento Básico\Exercise#1.py"
+  28 clear
+  29 py "Operadores Aritméticos Y Lógicos\Exercise#2.py"
+  30 py "Operadores Aritméticos Y Lógicos\Exercise#3.py"
+  31 py "Operadores Aritméticos Y Lógicos\Exercise#3.py"
+  23 py "Conocimiento Básico/ Exercise#4.py"
+  24 clear
+  25 py "Conocimiento Básico\Exercise#4.py"
+  26 py "Conocimiento Básico\Exercise#8.py"
+  27 py "Conocimiento Básico\Exercise#1.py"
+  24 clear
+  25 py "Conocimiento Básico\Exercise#4.py"
+  26 py "Conocimiento Básico\Exercise#8.py"
+  27 py "Conocimiento Básico\Exercise#1.py"
+  28 clear
+  29 py "Operadores Aritméticos Y Lógicos\Exercise#2.py"
+  26 py "Conocimiento Básico\Exercise#8.py"
+  27 py "Conocimiento Básico\Exercise#1.py"
+  28 clear
+  29 py "Operadores Aritméticos Y Lógicos\Exercise#2.py"
+  30 py "Operadores Aritméticos Y Lógicos\Exercise#3.py"
+  28 clear
+  29 py "Operadores Aritméticos Y Lógicos\Exercise#2.py"
+  30 py "Operadores Aritméticos Y Lógicos\Exercise#3.py"
+  30 py "Operadores Aritméticos Y Lógicos\Exercise#3.py"
+  31 py "Operadores Aritméticos Y Lógicos\Exercise#3.py"
+  31 py "Operadores Aritméticos Y Lógicos\Exercise#3.py"
+  32 py "Operadores Aritméticos Y Lógicos\Exercise#3.py"
+  33 py "Operadores Aritméticos Y Lógicos\Exercise#3.py"
+  34 clear
+
+
+PS C:\xampp\htdocs\Vectores> py "Operadores Aritméticos Y Lógicos\Exercise#10.py"
+C:\Users\parag\AppData\Local\Programs\Python\Python313\python.exe: can't open file 'C:\\xampp\\htdocs\\Vectores\\Operadores Aritméticos Y Lógicos\\Exercise#10.py': [Errno 2] No such file or directory
+PS C:\xampp\htdocs\Vectores> py "Operadores Aritméticos Y Lógicos\Exercise#10.py"
+True
+PS C:\xampp\htdocs\Vectores>

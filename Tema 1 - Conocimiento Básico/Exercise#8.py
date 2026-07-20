@@ -7,4 +7,4 @@ name = input("¿Cual es su nombre? :")
 
 print("Bienvenido", name, "a Python.")
 
-#py "Conocimiento Básico\Exercise#8.py"
+# py "Tema 1 - Conocimiento Básico\Exercise#8.py"

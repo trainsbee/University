@@ -123,3 +123,100 @@ C:\Users\parag\AppData\Local\Programs\Python\Python313\python.exe: can't open fi
 PS C:\xampp\htdocs\Vectores> py "Operadores Aritméticos Y Lógicos\Exercise#10.py"
 True
 PS C:\xampp\htdocs\Vectores>
+
+PS C:\xampp\htdocs\University> py "Tema 5 - Estructuras De Tuplas\Exercise#4.py"
+3
+PS C:\xampp\htdocs\University> py "Tema 5 - Estructuras De Tuplas\Exercise#4.py"
+1
+PS C:\xampp\htdocs\University> py "Tema 5 - Estructuras De Tuplas\Exercise#5.py"
+0
+PS C:\xampp\htdocs\University> py "Tema 5 - Estructuras De Tuplas\Exercise#5.py"
+1
+PS C:\xampp\htdocs\University> py "Tema 6 - Manejo De Conjuntos (Sets)\Exercise#3.py"
+{1, 2, 3, 4, 5, 6}
+PS C:\xampp\htdocs\University> py "Tema 6 - Manejo De Conjuntos (Sets)\Exercise#3.py"
+{1, 2, 3, 4, 5, 6, 7}
+PS C:\xampp\htdocs\University> py "Tema 6 - Manejo De Conjuntos (Sets)\Exercise#7.py"
+naranja
+PS C:\xampp\htdocs\University> py "Tema 6 - Manejo De Conjuntos (Sets)\Exercise#7.py"
+naranja
+PS C:\xampp\htdocs\University> py "Tema 6 - Manejo De Conjuntos (Sets)\Exercise#7.py"
+platano
+PS C:\xampp\htdocs\University> # py "Tema 6 - Manejo De Conjuntos (Sets)\Exercise#9.py"
+PS C:\xampp\htdocs\University> py "Tema 6 - Manejo De Conjuntos (Sets)\Exercise#9.py"
+{1, 2}
+PS C:\xampp\htdocs\University> py "Tema 6 - Manejo De Conjuntos (Sets)\Exercise#9.py"
+{1, 2}
+PS C:\xampp\htdocs\University> git add .
+PS C:\xampp\htdocs\University> git commit -m "Completed exercises"
+[main 044d45d] Completed exercises
+ 9 files changed, 133 insertions(+)
+ create mode 100644 Tema 4 - Listas En Python/Exercise#2.py
+ create mode 100644 Tema 4 - Listas En Python/Exercise#4.py
+ create mode 100644 Tema 4 - Listas En Python/Exercise#5.py
+ create mode 100644 Tema 5 - Estructuras De Tuplas/Exercise#3.py
+ create mode 100644 Tema 5 - Estructuras De Tuplas/Exercise#4.py
+ create mode 100644 Tema 5 - Estructuras De Tuplas/Exercise#5.py
+ create mode 100644 Tema 6 - Manejo De Conjuntos (Sets)/Exercise#3.py
+ create mode 100644 Tema 6 - Manejo De Conjuntos (Sets)/Exercise#7.py
+ create mode 100644 Tema 6 - Manejo De Conjuntos (Sets)/Exercise#9.py
+PS C:\xampp\htdocs\University> git push origin main
+Enumerating objects: 15, done.
+Counting objects: 100% (15/15), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (14/14), done.
+Writing objects: 100% (14/14), 3.44 KiB | 880.00 KiB/s, done.
+Total 14 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/trainsbee/University.git
+   2923a33..044d45d  main -> main
+PS C:\xampp\htdocs\University> history
+
+  Id CommandLine
+  -- -----------
+   1 try { . "c:\Program Files\cursor\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegration.ps1" } catch {}
+   2 git add .
+   3 git commit -m "New: Cadenas De Texto (Strings)"
+   4 git push origin main
+   5 clear
+   6 py "Cadenas De Texto (Strings)\Exercise#1.py"
+   7 py "Cadenas De Texto (Strings)\Exercise#4.py"
+   8 py "Cadenas De Texto (Strings)\Exercise#4.py"
+   9 py "Cadenas De Texto (Strings)\Exercise#4.py"
+  10 py "Cadenas De Texto (Strings)\Exercise#5.py"
+  11 py "Cadenas De Texto (Strings)\Exercise#9.py"
+  12 py "Tema 1 - Conocimiento Básico\Exercise#1.py"
+  13 py "Tema 1 - Conocimiento Básico\Exercise#8.py"
+  14 py "Tema 2 - Operadores Aritméticos Y Lógicos\Exercise#10.py"
+  15  py "Tema 3 - Cadenas De Texto (Strings)\Exercise#4.py"
+  16 git add
+  17 git add .
+  18 git commit -m "Changing folders"
+  19 git push origin main
+  20 clear
+  21 py "Tema 4 - Listas En Python\Exercise#2.py"
+  22 py "Tema 4 - Listas En Python\Exercise#2.py"
+  23 py "Tema 4 - Listas En Python\Exercise#4.py"
+  24 py "Tema 4 - Listas En Python\Exercise#5.py"
+  25 py "Tema 4 - Listas En Python\Exercise#5.py"
+  26 py "Tema 5 - Estructuras De Tuplas\Exercise#3.py"
+  27 py "Tema 5 - Estructuras De Tuplas\Exercise#3.py"
+  28 clear
+  29 py "Tema 5 - Estructuras De Tuplas\Exercise#4.py"
+  30 py "Tema 5 - Estructuras De Tuplas\Exercise#4.py"
+  31 py "Tema 5 - Estructuras De Tuplas\Exercise#5.py"
+  32 py "Tema 5 - Estructuras De Tuplas\Exercise#5.py"
+  33 py "Tema 6 - Manejo De Conjuntos (Sets)\Exercise#3.py"
+  34 py "Tema 6 - Manejo De Conjuntos (Sets)\Exercise#3.py"
+  35 py "Tema 6 - Manejo De Conjuntos (Sets)\Exercise#7.py"
+  36 py "Tema 6 - Manejo De Conjuntos (Sets)\Exercise#7.py"
+  37 py "Tema 6 - Manejo De Conjuntos (Sets)\Exercise#7.py"
+  38 # py "Tema 6 - Manejo De Conjuntos (Sets)\Exercise#9.py"
+  39 py "Tema 6 - Manejo De Conjuntos (Sets)\Exercise#9.py"
+  40 py "Tema 6 - Manejo De Conjuntos (Sets)\Exercise#9.py"
+  41 git add .
+  42 git commit -m "Completed exercises"
+  43 git push origin main
+
+
+PS C:\xampp\htdocs\University>

@@ -1,4 +1,5 @@
-# University
+# University - Univerisidad Politecica de Honduras
+# Developer  - David Maldonado
 
 Repositorio de práctica y ejercicios de Python realizados durante mi aprendizaje universitario.
 
